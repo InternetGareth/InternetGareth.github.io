@@ -30,6 +30,6 @@ Throughout my career, I've successfully led data science teams and technical ini
 
 ### Background
 
-I hold a PhD in Geography and Environment from the University of Oxford with specialization in econometric and GIS applications. My academic foundation in quantitative methods, combined with extensive industry experience, enables me to bridge the gap between research innovation and practical business solutions.
+I hold a PhD in Geography and Environment from the University of Oxford with specialization in econometric and GIS applications, an MSc in Water Science Policy & Management from Oxford, and a BSc in Physics with Philosophy of Science from King's College London. This foundation in physics and quantitative methods, combined with extensive industry experience, enables me to bridge the gap between research innovation and practical business solutions.
 
 I'm passionate about communicating complex technical concepts clearly and building systems that deliver measurable business value.
