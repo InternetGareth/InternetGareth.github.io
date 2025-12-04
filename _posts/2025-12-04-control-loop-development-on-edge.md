@@ -11,8 +11,8 @@ tags:
   - Research Methods
 excerpt: "Exploring PID controllers and edge computing through the lens of game development - learning control theory by building an interactive game on the Play Date console."
 header:
-  image: /assets/images/2025-12-04-pid-controller/playdate-console.png
-  teaser: /assets/images/2025-12-04-pid-controller/playdate-console.png
+  image: /assets/images/2025-12-04-pid-controller/playdate-console-header.png
+  teaser: /assets/images/2025-12-04-pid-controller/playdate-console-header.png
 ---
 
 # Control loop development on the edge
