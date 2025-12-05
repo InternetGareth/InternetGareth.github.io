@@ -10,11 +10,11 @@ I'm a data scientist with a theoretical background in physics and political econ
 
 # My current role and focus
 
-## I'm currently working on power management in data centers
+## Power management in data centers
 
 Currently serving as Principal ML Infrastructure Engineer at Utilidata, where I'm focused on minimizing time-to-value for deployed machine learning applications in edge computing environments within the data center space. This role combines my passion for ML infrastructure optimization with the unique challenges of deploying AI solutions at the edge.
 
-## I'm focused on growing across agile leadership roles
+## Agile leadership
 
 Over the years I've learned where I thrive and what I love doing. It turns out I like to work and grow across three domains of agile leadership:
 
