@@ -1,5 +1,5 @@
 ---
-title: "Control Loop Development on the Edge"
+title: "Control loop development on the edge"
 date: 2025-12-04
 categories:
   - Technical
