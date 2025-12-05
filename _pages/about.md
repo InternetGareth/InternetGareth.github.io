@@ -8,7 +8,7 @@ title: "About"
 I'm a data scientist with a theoretical background in physics and political economy. Over the last 20 years or so I have worked in academia, government, consultancy, and tech. The problems I've been focused on solving have been mostly in sustainable natural resource management, utility operations and planning, and critical infrastructure monitoring and maintenance.
 
 
-# My current role and focus
+# My current work
 
 ## Power management in data centers
 
@@ -25,7 +25,7 @@ Over the years I've learned where I thrive and what I love doing. It turns out I
 
 **Catalyzing Growth**: There are times, especially in startups, when you don't know how the problem will get solved. All you can do is make fast efficient decisions and execute. I've found this is usually a time of rapid growth at an individual and collective level. It's when you learn the most, establish and reinforce team culture, and develop a shared understanding of your value proposition. My focus at these times is on trust. It takes a certain level of trust to be able to admit your own ignorance or to ask for help. It requires trust to step up and offer that help even if it might not be perfect. It requires trust to quickly make decisions, assign tasks, and execute, all while assuming your teammates have your back. Trust in turn is built on the back of making sure people feel valued, safe, and empowered. I do my best to understand the people I work with as complete individuals who are on their own growth journey, and treat them with dignity and respect.
 
-# My past roles
+# My past work
 
 ## Solar asset performance assurance
 
