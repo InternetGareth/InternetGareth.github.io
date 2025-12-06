@@ -37,15 +37,15 @@ I worked as a senior consultant for a multinational design and engineering firm 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; margin: 30px 0;">
   <div style="flex: 1; min-width: 250px; max-width: 350px;">
     <img src="/assets/images/about/KigaliMap.JPG" alt="Kigali infrastructure map" style="width: 100%; height: auto; border-radius: 4px;">
-    <p style="text-align: center; font-size: 0.9em; margin-top: 8px; font-style: italic;">Infrastructure planning and mapping in Kigali, Rwanda</p>
+    <p style="text-align: center; font-size: 0.9em; margin-top: 8px; font-style: italic;">Squinting and sweating during a field assessment like only a Brittish guy can. Kigali, Rwanda</p>
   </div>
   <div style="flex: 1; min-width: 250px; max-width: 350px;">
     <img src="/assets/images/about/networkmap.png" alt="Network infrastructure map" style="width: 100%; height: auto; border-radius: 4px;">
-    <p style="text-align: center; font-size: 0.9em; margin-top: 8px; font-style: italic;">Network infrastructure analysis and planning</p>
+    <p style="text-align: center; font-size: 0.9em; margin-top: 8px; font-style: italic;">The proposed sewerage infrastructure we were evaluating </p>
   </div>
   <div style="flex: 1; min-width: 250px; max-width: 350px;">
     <img src="/assets/images/about/open_sewer.JPG" alt="Open sewer infrastructure" style="width: 100%; height: auto; border-radius: 4px;">
-    <p style="text-align: center; font-size: 0.9em; margin-top: 8px; font-style: italic;">Field assessment of water and sanitation infrastructure</p>
+    <p style="text-align: center; font-size: 0.9em; margin-top: 8px; font-style: italic;">At the time, Kigali still relied on combined sewer and drainage, oftentimes open</p>
   </div>
 </div>
 
