@@ -51,15 +51,3 @@ I worked as a senior consultant for a multinational design and engineering firm 
 
 ## Academia and public policy
 I hold a PhD in Geography and Environment from the University of Oxford with specialization in econometric and GIS applications, an MSc in Water Science Policy & Management, and a BSc in Physics with Philosophy of Science from King's College London. I spent a while in academia publishing papers on water policy, regulation, and planning. I also worked with the UK government on policy and planning focused on migration, conflict, and water scarcity.
-
-
-# Some technical skills I have
-
-**Machine Learning**: Deep learning architectures (LSTM/RNN, CNNs), classical ML (logistic regression, SVM, clustering), computer vision, NLP, and physics-based modeling
-
-**Infrastructure & Tools**: Python ecosystem (Pandas, PyTorch, scikit-learn), Spark, MLflow, Docker, CI/CD pipelines, cloud platforms
-
-**Statistics & Analytics**: Econometrics, time series analysis, GIS applications, experimental design
-
-
-I'm passionate about communicating complex technical concepts clearly and building systems that deliver measurable business value.
