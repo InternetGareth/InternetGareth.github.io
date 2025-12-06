@@ -31,7 +31,23 @@ I worked as the head data scientist at Omnidian, a solar asset performance assur
 - **Infrastructure Innovation**: Early adopter and implementer of modern ML infrastructure including DataBricks ecosystem, Spark, MLflow, and feature stores
 
 ## Utility policy, regulation, and finance
+
 I worked as a senior consultant for a multinational design and engineering firm (WS Atkins). I worked in their Utility transaction advisory division. I contributed to technical and financial buyer and vendor due diligence reports. I also worked with national regulators, utilities, and policy makers in North Africa and Eastern Europe to deliver regulatory reform, infrastructure investment plans, and economic impact assessments.
+
+<div style="display: flex; flex-wrap: wrap; gap: 20px; margin: 30px 0;">
+  <div style="flex: 1; min-width: 250px; max-width: 350px;">
+    <img src="/assets/images/about/KigaliMap.JPG" alt="Kigali infrastructure map" style="width: 100%; height: auto; border-radius: 4px;">
+    <p style="text-align: center; font-size: 0.9em; margin-top: 8px; font-style: italic;">Infrastructure planning and mapping in Kigali, Rwanda</p>
+  </div>
+  <div style="flex: 1; min-width: 250px; max-width: 350px;">
+    <img src="/assets/images/about/networkmap.png" alt="Network infrastructure map" style="width: 100%; height: auto; border-radius: 4px;">
+    <p style="text-align: center; font-size: 0.9em; margin-top: 8px; font-style: italic;">Network infrastructure analysis and planning</p>
+  </div>
+  <div style="flex: 1; min-width: 250px; max-width: 350px;">
+    <img src="/assets/images/about/open_sewer.JPG" alt="Open sewer infrastructure" style="width: 100%; height: auto; border-radius: 4px;">
+    <p style="text-align: center; font-size: 0.9em; margin-top: 8px; font-style: italic;">Field assessment of water and sanitation infrastructure</p>
+  </div>
+</div>
 
 ## Academia and public policy
 I hold a PhD in Geography and Environment from the University of Oxford with specialization in econometric and GIS applications, an MSc in Water Science Policy & Management, and a BSc in Physics with Philosophy of Science from King's College London. I spent a while in academia publishing papers on water policy, regulation, and planning. I also worked with the UK government on policy and planning focused on migration, conflict, and water scarcity.
