@@ -34,6 +34,24 @@ I worked as the head data scientist at Omnidian, a solar asset performance assur
 
 I worked as a senior consultant for a multinational design and engineering firm (WS Atkins). I worked in their Utility transaction advisory division. I contributed to technical and financial buyer and vendor due diligence reports. I also worked with national regulators, utilities, and policy makers in North Africa and Eastern Europe to deliver regulatory reform, infrastructure investment plans, and economic impact assessments.
 
+**Selected Project Experience:**
+
+**International Development and Infrastructure**
+- **Western Balkan Investment Framework (IPF 5)**: Project Manager for technical assistance operation providing feasibility studies, preliminary and detailed designs, tendering support, works supervision, and preparatory sectoral studies across energy, environment, transport and social infrastructure.
+- **EIB Kigali Central Sewage, Rwanda**: Project Manager and economic/financial analyst. Assessed project feasibility from financial, institutional, legal and socio-economic perspectives. Delivered Willingness To Pay (WTP) survey and economic cost-benefit analysis for the Kigali Wastewater Project.
+- **EIB Mediterranean Hot Spots Investment Programme II (MeHSIP II), Morocco**: Project Manager providing resident expert support in Rabat to identify and prepare water, wastewater and solid waste projects for financing in the Southern Mediterranean Region.
+- **EIB Project Implementation Support Team (PIST), Romania**: Project Manager assisting the Managing Authority for the Sectorial Environment (MA-SOPE) on implementation of environment projects, with focus on water project issues.
+- **EU Technical Assistance Facility: Sustainable Energy for All (SE4All)**: Project Coordinator for regional initiative promoting renewable and off-grid electricity access in Central and Eastern Africa.
+
+**U.K. Water Sector**
+- **Welsh Water OpEx Integration**: Financial Analyst co-authoring guidance on integrating operational expenditure forecasting within the capital delivery programme project preparation phase.
+- **Thames Water Corporate Strategy**: Commercial Analyst developing case studies and analysis of future transaction options under new U.K. water sector regulatory arrangements.
+- **Sutton East Surrey Water Tariff Review**: Technical Consultant developing financial models and updated tariff structures, including customer re-categorisation by consumption and cost-to-serve, tariff construction, revenue projections, and regulatory reporting.
+- **Project Knight - U.K. Water Utility Due Diligence**: Project Coordinator and Financial Analyst delivering buyer's technical due diligence on water and wastewater utility, assessing capital investment programme adequacy, benchmarking operating costs and performance, and identifying material risks.
+
+**International Tariff and Revenue Analysis**
+- **UAE Water Utility Expansion**: Economic and Financial Analyst reviewing revenue models and forecasts for utility coverage area expansion, including population projections, tariff escalation mechanisms, connection procedures, and debt collection rate analysis.
+
 <div style="display: flex; flex-wrap: wrap; gap: 20px; margin: 30px 0;">
   <div style="flex: 1; min-width: 250px; max-width: 350px;">
     <img src="/assets/images/about/KigaliMap.JPG" alt="Kigali infrastructure map" style="width: 100%; height: auto; border-radius: 4px;">
