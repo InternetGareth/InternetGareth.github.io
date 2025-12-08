@@ -8,21 +8,21 @@ title: "About"
 I'm a data scientist with a theoretical background in physics and political economy. Over the last 20 years or so I have worked in academia, government, consultancy, and tech. The problems I've been focused on solving have been mostly in sustainable natural resource management, utility operations and planning, and critical infrastructure monitoring and maintenance.
 
 
-## 2025 to Present: Technical leadership in Edge AI and data cernter management
+## Technical leadership in Edge AI and data cernter management
 
-Currently serving as Principal ML Infrastructure Engineer at Utilidata, where I'm focused on minimizing time-to-value for deployed machine learning applications in edge computing environments within the data center space. This role combines my passion for ML infrastructure optimization with the unique challenges of deploying AI solutions at the edge.
+I currently serve as Principal ML Infrastructure Engineer at [Utilidata](https://utilidata.com/), where I lead the design and deployment of the company’s edge AI platform across both grid-edge devices and data-center environments. My work focuses on reducing time-to-value for ML systems by building reliable, scalable, and observable infrastructure—from GPU power-capping control loops and high-frequency telemetry pipelines to model-orchestration frameworks running on Karman edge hardware and DGX-class servers. I bridge applied machine learning, systems engineering, and energy management, developing software that enables real-time inference, power-flow optimization, and intelligent scheduling of AI workloads in environments where latency, resilience, and energy efficiency are first-class concerns.
 
-## 2018 to 2025: Data Science laderhsip in renewable energy
+## Data Science laderhsip in renewable energy
 
-I worked as the head data scientist at Omnidian, a solar asset performance assurance startup. We leveraged ML pipelines to improve the efficiency and performance of our remote monitoring and operations platform. My work tended to span:
+From around 2018 to 2025 I lead the Data Sciennce team at [Omnidian](https://www.omnidian.com/), a solar asset performance assurance startup. We leveraged ML pipelines to improve the efficiency and performance of our remote monitoring and operations platform. My work tended to span:
 
 - **Team Leadership**: Managed and mentored data science teams, growing capabilities from inaugural ML services to comprehensive AI-driven solutions
 - **Technical Vision**: Championed ML/AI adoption across organizations, presenting technical deep-dives to investors and stakeholders at Series A, B, and C funding rounds
 - **Infrastructure Innovation**: Early adopter and implementer of modern ML infrastructure including DataBricks ecosystem, Spark, MLflow, and feature stores
 
-## 2013 to 2018: Utility policy, regulation, and finance
+## Utility policy, regulation, and finance
 
-I worked as a senior consultant for a multinational design and engineering firm (WS Atkins). I worked in their Utility transaction advisory division. I contributed to technical and financial buyer and vendor due diligence reports. I also worked with national regulators, utilities, and policy makers in North Africa and Eastern Europe to deliver regulatory reform, infrastructure investment plans, and economic impact assessments.
+Before my life in tech, I worked as a senior consultant for a multinational design and engineering firm [WS Atkins](https://www.atkinsrealis.com/). I worked in their Utility transaction advisory division in thier London office. I contributed to technical and financial buyer and vendor due diligence reports. I also worked with national regulators, utilities, and policy makers in North Africa and Eastern Europe to deliver regulatory reform, infrastructure investment plans, and economic impact assessments.
 
 **Selected Project Experience:**
 
@@ -57,9 +57,11 @@ I worked as a senior consultant for a multinational design and engineering firm 
   </div>
 </div>
 
-## 2007 to 2013: Academia and public policy
+## Academia and public policy
 
-I hold a PhD in Geography and Environment from the University of Oxford with specialization in econometric and GIS applications, an MSc in Water Science Policy & Management, and a BSc in Physics with Philosophy of Science from King's College London. I spent a while in academia publishing papers on water policy, regulation, and planning. I also worked with the UK government on policy and planning focused on migration, conflict, and water scarcity.
+Before entering industry, I began my career in academia and public policy, working at the intersection of water security, governance, and environmental economics. My research focused on how institutions shape resource allocation, and I published on topics ranging from demand forecasting and regulatory reform to the political economy of water services. Alongside my academic work, I partnered with U.K. government departments and international research institutes on policy questions related to migration, conflict, and water scarcity, contributing analysis that informed national planning and global foresight initiatives.
+
+I hold a PhD in Geography and Environment from the University of Oxford, where I specialized in econometrics and GIS applications, an MSc in Water Science, Policy & Management, and a BSc in Physics with Philosophy of Science from King’s College London.
 
 **Peer Reviewed Papers**
 - Walker, G. (2014). [A theoretical walk through the political economy of urban water resource management](/assets/papers/Theoretical_Walk_through_the_Political_E.pdf). *Geography Compass*, 8(5), pp.336-350.
