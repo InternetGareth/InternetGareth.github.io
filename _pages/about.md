@@ -66,8 +66,12 @@ I hold a PhD in Geography and Environment from the University of Oxford with spe
 
 **Public Policy Research**
 - Walker, G. (2013). [Framing and translating institutional alternatives to privatization in European water services](/assets/papers/Walker%20(2013)%20Framing%20institutional%20alternatives%20to%20privatisation%20in%20EU%20water%20services.pdf). Visiting Researcher Report, Leibniz Institute for Regional Development and Structural Planning (IRS), Berlin, Germany.
-
 - Walker, G. and Sprague, T. (2011). [The hypothesised water-conflict-migration link: A review of empirical evidence](/assets/papers/The_hypothesised_water_conflict_migratio.pdf). Foresight Global Environmental Migration Project, University of Oxford.
+- Walker, G. (2009). [Evaluation of the water saving potential of social housing stock in the Greater London Area](/assets/papers/Evaluation_of_the_water_saving_potential.pdf). Report to the Greater London Authority.
+- Walker, G. (2009). [The water and energy implications of bathing and showering behaviours and technologies](/assets/papers/The_Water_and_Energy_Implications_of_Bat.pdf). Waterwise Report.
+- Zygmunt, J. and Walker, G. (2008). [Water and energy consumptions of dishwashers and washing machines: An analysis of efficiencies to determine the possible need and options for a water efficiency label for wet white goods](/assets/papers/J_Zygmunt_G_Walker_2008_Water_and_energy.pdf). Policy Research Report.
+- Walker, G. (2008). Conflicts and synergies in domestic water and energy efficiency. Concept and offering, EU LIFE+ Commission.
+- Walker, G. (2007). [International experiences of sub-metering](/assets/papers/International_Experiences_of_Sub_Meterin%20(1).pdf). Report to the Greater London Authority.
 
 **Public Speaking, Seminars, and Conference Papers**
 - Walker, G. (2012). "An uncooperative community? Water resource management in England and Wales". Cambridge University Co-Reach Seminar, Cambridge, U.K., June 19, 2012.
