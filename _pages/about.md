@@ -53,21 +53,23 @@ I worked as a senior consultant for a multinational design and engineering firm 
 
 I hold a PhD in Geography and Environment from the University of Oxford with specialization in econometric and GIS applications, an MSc in Water Science Policy & Management, and a BSc in Physics with Philosophy of Science from King's College London. I spent a while in academia publishing papers on water policy, regulation, and planning. I also worked with the UK government on policy and planning focused on migration, conflict, and water scarcity.
 
-**Peer Reviewed Papers:**
+**Peer Reviewed Papers**
 - Walker, G. (2014). [A theoretical walk through the political economy of urban water resource management](/assets/papers/Theoretical_Walk_through_the_Political_E.pdf). *Geography Compass*, 8(5), pp.336-350.
 - Walker, G. (2014). [Water scarcity in England and Wales as a failure of (meta) governance](/assets/papers/Art7-2-6.pdf). *Water Alternatives*, 7(2).
 - Walker, G. (2013). [A critical examination of models and projections of demand in water utility resource planning in England and Wales](/assets/papers/A_critical_examination_of_models_and_pro.pdf). *International Journal of Water Resources Development*, 29(3), pp.352-372.
-- Walker, G. and Sprague, T. (2011). [The hypothesised water-conflict-migration link: A review of empirical evidence](/assets/papers/The_hypothesised_water_conflict_migratio.pdf). Foresight Global Environmental Migration Project, University of Oxford.
 
-**Book Chapters and Reviews:**
+
+**Book Chapters and Reviews**
 - Smith, H.M. and Walker, G. (2019). [The political economy of wastewater in Europe](https://onlinelibrary.wiley.com/doi/abs/10.1002/9781119520627.ch12). In: Dadson, S.J. and Garrick, D.E. (eds.) *Water Science, Policy, and Management: A Global Challenge*. John Wiley & Sons, Hoboken, NJ, pp.215-232.
 - Walker, G. (2016). [Book review: Plastic Water: The Social and Material Life of Bottled Water](/assets/papers/Book_Review_Plastic_Water_The_Social_and.pdf). *Antipode*, April 2016.
 - Walker, G. (2009). [Introducing the soft water approach to English water companies](https://api.taylorfrancis.com/content/books/mono/download?identifierName=doi&identifierValue=10.4324/9781849770125&type=googlepdf). In: Brandes, O., Brooks, D.B. and Gurman, S. (eds.) *Making the Most of the Water We Have: The Soft Path Approach to Water Management*. Routledge, Earthscan Publishing.
 
-**Public Policy Research:**
+**Public Policy Research**
 - Walker, G. (2013). [Framing and translating institutional alternatives to privatization in European water services](/assets/papers/Walker%20(2013)%20Framing%20institutional%20alternatives%20to%20privatisation%20in%20EU%20water%20services.pdf). Visiting Researcher Report, Leibniz Institute for Regional Development and Structural Planning (IRS), Berlin, Germany.
 
-**Public Speaking, Seminars, and Conference Papers:**
+- Walker, G. and Sprague, T. (2011). [The hypothesised water-conflict-migration link: A review of empirical evidence](/assets/papers/The_hypothesised_water_conflict_migratio.pdf). Foresight Global Environmental Migration Project, University of Oxford.
+
+**Public Speaking, Seminars, and Conference Papers**
 - Walker, G. (2012). "An uncooperative community? Water resource management in England and Wales". Cambridge University Co-Reach Seminar, Cambridge, U.K., June 19, 2012.
 - Walker, G. (2011). "Water scarcity, migration, and conflict: a state of science review". RiBaGo Network Conference, Beijing, China, September 1, 2011.
 - Walker, G. (2011). "Water demand modeling: science or discourse?" Water Congress, Granada, Spain, May 9-11, 2011.
