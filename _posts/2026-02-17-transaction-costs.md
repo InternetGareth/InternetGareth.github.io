@@ -15,7 +15,7 @@ excerpt: "Thinking through transaction costs, Elinor Ostrom's governance models,
 
 # Transaction costs
 
-When I was a grad student working on how utilities operated in regulatory systems, I thought a lot about transaction costs. You can think of transaction costs as "the cost of doing business." They're the additional costs you take on when you operate in less than perfect free markets. They tend to be high when:
+When I was a grad student working on how utilities operated in regulatory systems, I thought a lot about [transaction costs](https://en.wikipedia.org/wiki/Transaction_cost). You can think of transaction costs as "the cost of doing business." They're the additional costs you take on when you operate in less than perfect free markets. They tend to be high when:
 
 - You have to make decisions with incomplete or asymmetric information; you don't have all the info and you don't know what info others might have.
 
@@ -31,7 +31,7 @@ Climate mitigation is a nice example. On the one hand, there are those who say, 
 
 # Elinor Ostrom and the governance approach
 
-What was interesting at the time when I was studying was that a woman called Elinor Ostrom had just received the Nobel Prize for demonstrating that this isn't really how humans operate in practice. Through primary data gathered across cultures and geographies, she demonstrated humans are capable of collective action without the need for property rights or state intervention. Instead, through cultural norms, reciprocity, and negotiated rules and rights, people build trust and self-organize in a diverse set of ways that suit their local context and achieve socially optimal outcomes.
+What was interesting at the time when I was studying was that a woman called [Elinor Ostrom](https://en.wikipedia.org/wiki/Elinor_Ostrom) had just received the Nobel Prize for demonstrating that this isn't really how humans operate in practice. Through primary data gathered across cultures and geographies, she demonstrated humans are capable of collective action without the need for property rights or state intervention. Instead, through cultural norms, reciprocity, and negotiated rules and rights, people build trust and self-organize in a diverse set of ways that suit their local context and achieve socially optimal outcomes.
 
 In Ostrom's models, trust is central. It is the outcome of careful negotiation and requires constant maintenance and reinforcement. In the absence of blind self-interest or fear of state penalties, it is trust, built on relationships, reciprocity, and a common understanding, that provides a basis for operating with lowered transaction costs.
 
