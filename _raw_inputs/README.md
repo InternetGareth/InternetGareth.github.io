@@ -1,0 +1,1 @@
+A folder to store raw media inputs (pdfs, imgages etc) for parsing and comitting to main repo. Files ignored in git in here
